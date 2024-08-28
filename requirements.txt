@@ -1,0 +1,4 @@
+img2pdf==0.4.4
+Pillow==8.4.0
+pypdfium2==4.30.0
+python-telegram-bot==21.4
